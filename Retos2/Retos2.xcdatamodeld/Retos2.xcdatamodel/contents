@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="15E65" minimumToolsVersion="Automatic">
+    <entity name="Added_Friends" syncable="YES"/>
+    <entity name="Retos" syncable="YES">
+        <attribute name="challenge_name" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Users" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pass" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Retos" positionX="-45" positionY="-162" width="128" height="60"/>
+        <element name="Added_Friends" positionX="97" positionY="-162" width="128" height="45"/>
+        <element name="Users" positionX="-198" positionY="-162" width="128" height="75"/>
+    </elements>
+</model>
